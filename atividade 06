@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h1 align="center">Cabeçalho</h1>
+    </nav>
+  
+    <table width="100%" border="2" bordercolor="#5591D7">
+
+        <aside>
+            <td width="32%" valign="top">
+                <p align="center">Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional, Escola Estadual de Educação Profissional.</p>
+
+                <td width="33%" valign="top">
+                    <p align="center">Texto do site</p>
+                </td>
+
+            <td width="33%" valign="top">
+                <ul>
+                    <li><a href="#">index.html</a></li>
+                    <li><a href="#">sobre.html</a></li>
+                    <li><a href="#">blog.html</a></li>
+                </ul>
+            </td>
+        </aside>
+    </table>
+    <br>
+    <footer align="center">Rodapé</footer>
+</body>
+</html>
