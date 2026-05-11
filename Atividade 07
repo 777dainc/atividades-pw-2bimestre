@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Met Gala</title>
+</head>
+<body align="center">
+    <h1>Met Gala 2026: 4 famosos que foram incríveis ao evento</h1>
+    <p>Algumas celebridades foram além do glamour tradicional, sob o tema "A Arte do Figurino" e o dress code "Moda é Arte"</p>
+    <br>
+    <br>
+<hr>
+    <br>
+    <br>
+    <br>
+    <img src="https://assets.vogue.com/photos/69f934291cfa495a17acbee4/16:9/w_1280,c_limit/2274541693" height="48%" width="48%">
+    <br>
+    <br>
+    <p><strong>Jennie Kim</strong> voltou a chamar atenção no <strong>Met Gala 2026</strong>. A integrante do <strong>BLACKPINK</strong> chega à edição deste ano cercada de expectativa, após emendar uma sequência de looks que foram muito comentados nas últimas edições do evento.</p>
+    <p>A relação de Jennie com o evento vem se consolidando ano após ano. Em <strong>2025, a cantora apostou em um visual elegante e ousado da Chanel,</strong> reforçando sua ligação com a maison francesa. Já em 2024, <strong>chamou atenção com um vestido azul recortado da Alaïa</strong>, assinado por Pieter Mulier, com cauda longa e detalhes em pérolas que destacaram a silhueta.</p>
+
+    <br>
+    <br>
+<hr>    
+    <br>
+    <br>
+    <br>
+    <img src="https://billboard-com-br.s3.amazonaws.com/wp-content/uploads/2026/05/05100655/lisa.jpg" height="48%" width="48%">
+    <br>
+    <br>
+    <p><strong>Lisa</strong> Usando um dos looks mais chamativos (e polêmicos) da noite, Lisa colaborou com <strong>Robert Wun</strong> para chegar em um vestido transparente que vem acompanhado de uma escultura – que, na verdade, são os próprios braços da artista feitos em 3D e arranjados em uma posição tradicional de dança tailandesa.</p>
+    <p>Lisa seguiu à risca o dress code sugerido (fashion is art ou moda é arte, em português) e trouxe à tona um vestido escultural. Com braços postiços posicionados sobre seus ombros, a peça oferece também um véu amarrado sobre sua cabeça, com base transparente e aplicações de pedraria que replicam o padrão do vestido.</p>
+
+    <br>
+    <br>
+<hr>    
+    <br>
+    <br>
+    <br>
+    <img src="https://content.api.news/v3/images/bin/2180bfea6906c1cd22fb6265fbe6638f?width=1280" height="48%" width="48%">
+    <br>
+    <br>
+    <p><strong>Rosé</strong> chegou ao seu terceiro Met Gala usando um vestido preto <strong>Saint Laurent</strong> que tem cintura volumosa e estruturada. O visual, com styling de Law Roach, ainda ganhou um broche maximalista em formato de pássaro da <strong>Tiffany & Co.</strong></p>
+    <p>Ela optou por um clássico all-black para a celebração. O modelo da Saint Laurent traz um pássaro de pedraria aplicado sobre a cintura e uma fenda generosa, colocando a pele em evidência.</p>
+
+    <br>
+    <br>
+<hr>    
+    <br>
+    <br>
+    <br>
+    <img src="https://th.bing.com/th?id=OMSN.AA22KcSQ.webp-Gem&pid=wdpv2" height="48%" width="48%">
+    <br>
+    <br>
+    <p>A estreia de <strong>Jisoo</strong> no Met Gala 2026 já chega com um momento de destaque! A integrante do <strong>BLACKPINK</strong> cruza o tapete vermelho usando um vestido exclusivo da Dior, criado por Jonathan Anderson.</p>
+    <p> Conhecida por sua elegância e estética clássica, Jisoo construiu ao longo dos anos uma forte relação com o universo da moda, especialmente como embaixadora global da Dior. A escolha de um vestido sob medida para o Met Gala reforça essa conexão e marca um novo momento em sua trajetória internacional.</p>
+  
+    <br>
+    <br>
+    <br>
+<hr>    
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <form action="" method="get">
+        <fieldset>
+            <legend>Vote no Melhor look abaixo:</legend>
+        <div>
+            <label for="name">Nome:</label>
+            <input type="name" id="name" name="name" placeholder="Digite seu nome" required> <br>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="e-mail" placeholder="Digite seu email"> <br><br>
+
+            <label for="assunto">Escolha sua Fav:</label>
+            <select id="assunto" name="assunto">
+                <option value="selecione">selecione:</option>
+                <option value="jennie">Jennie</option>
+                <option value="lisa">Lisa</option>
+                <option value="rose">Rosé</option>
+                <option value="jisoo">Jisoo</option>
+            </select>
+            <br>
+            <br>
+
+            <label for="texto">Por que?:</label>
+            <textarea maxlength="500" minlength="10" cols="150" name="texto" placeholder="Escreva o por que você escolheu este look"></textarea>
+
+            <BR>
+            <BR>
+
+            
+            <button type="submit" formaction="atividade 02.html">enviar</button>
+        </div>
+        </fieldset>
+    
+    
+    </form>
+</body>
+</html>
